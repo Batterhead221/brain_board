@@ -1,0 +1,18 @@
+# STM32CubeIDE build output
+Debug/
+Release/
+*/Debug/
+*/Release/
+
+# Eclipse / CubeIDE workspace noise
+.metadata/
+.settings/
+*.launch
+
+# macOS
+.DS_Store
+
+# Temporary/editor files
+*.bak
+*.tmp
+*.swp
