@@ -687,7 +687,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "../../../:boards/brain_board/outputs/grbrs/",
+      "plot": "../Outputs/",
       "specctra_dsn": "",
       "vrml": ""
     },
